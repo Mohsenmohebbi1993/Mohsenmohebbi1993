@@ -60,7 +60,7 @@ Currently, I work at **Optic Etemad** as both **IT Manager** and **Senior Data A
 ---
 
 ## 📈 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mohsenmohebbi1993)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mohsenmohebbi1993&theme=radical&v=1)
 
 ## 📊 GitHub Stats
 ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsenmohebbi1993&show_icons=true&theme=radical)
