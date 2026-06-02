@@ -21,7 +21,16 @@
 ---
 
 ## 👨‍💻 About Me
-I hold a B.Sc. in Mechanical Engineering and an M.Sc. in Mechanical Engineering (Dynamics & Control). Currently, I serve as a **Senior Data Analyst and IT Manager at Optic Etemad**. My work focuses on leveraging data-driven insights and managing IT infrastructure to solve complex industrial and research challenges. I have authored 2 ISI research papers, showcasing my commitment to rigorous analysis and optimization.
+I hold a **B.Sc. in Mechanical Engineering** and an **M.Sc. in Mechanical Engineering (Dynamics & Control)**.
+
+During my academic and research journey, I worked on **optimization problems using Genetic Algorithm (GA) and Imperialist Competitive Algorithm (ICA)**, which led to the publication of **2 ISI papers**.
+
+My master's research focused on the **dynamic analysis of Timoshenko beams made of Functionally Graded Materials (FGM) on a Winkler–Pasternak foundation under moving loads**, and the modeling and analysis were carried out using **MATLAB**.
+
+Driven by my strong interest in data-driven problem solving, I transitioned into the fields of **Data Analysis, Data Science, and Machine Learning**.
+
+Currently, I work at **Optic Etemad** as both **IT Manager** and **Senior Data Analyst**, where I am responsible for **sales analysis, customer analysis, and business data analysis**. I am highly interested in this field and continuously focused on developing my expertise in data and intelligent systems.
+
 
 ## 🛠 Technical Skills & Expertise
 
