@@ -45,6 +45,17 @@ Currently, I work at **Optic Etemad** as both **IT Manager** and **Senior Data A
 
 ---
 
+## 🔬 Research Interests
+
+| Area | Tools & Methods |
+|---|---|
+| 📊 Data Analysis & BI | Python, Pandas, NumPy, Power BI, Excel |
+| 🤖 Machine Learning | Scikit-Learn, Feature Engineering, Model Evaluation |
+| ⚙️ Optimization | Genetic Algorithm (GA), Imperialist Competitive Algorithm (ICA), MATLAB |
+| 🧠 Dynamics & Control | Modeling, System Identification, MATLAB |
+| 🏃 Human Motion Analysis | Motion Data Processing, Kinematic Analysis, Python/MATLAB |
+| 🦴 Biomechanics & Musculoskeletal Modeling | OpenSim, Inverse Kinematics/Dynamics, Movement Analysis |
+| 📈 Signal Processing | Filtering, Time/Frequency Analysis, Python, MATLAB |
 ## 📊 GitHub Stats
 ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsenmohebbi1993&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsenmohebbi1993&layout=compact&theme=radical)
