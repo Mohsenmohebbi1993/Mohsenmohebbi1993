@@ -62,6 +62,6 @@ Currently, I work at **Optic Etemad** as both **IT Manager** and **Senior Data A
 ## 📈 GitHub Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mohsenmohebbi1993&theme=tokyonight&hide_border=true)
 
-*Turning movement data into meaningful insights.*
+*Turning movement data into meaningful insights.* 
 
-![snake gif](https://github.com/Mohsenmohebbi1993/Mohsenmohebbi1993/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Fatemeh-aboulhassani/Fatemeh-aboulhassani/blob/output/github-contribution-grid-snake.svg)
