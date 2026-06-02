@@ -1,7 +1,7 @@
 # Hi, I'm Mohsen 👋
 
 **Senior Data Analyst & IT Manager | Mechanical Engineering Background**
-*Data Science · AI · Machine Learning · Applied Design*
+*Data Science · AI · Machine Learning · Dynamics & Control*
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohsen-mohebbi1993/">
@@ -21,15 +21,17 @@
 ---
 
 ## 👨‍💻 About Me
-I hold a B.Sc. in Mechanical Engineering and an M.Sc. in Mechanical Engineering (Applied Design). I currently serve as a **Senior Data Analyst and IT Manager at Optic Etemad**, where I apply analytical rigor to solve complex problems in Data Science and AI.
+I hold a B.Sc. in Mechanical Engineering and an M.Sc. in Mechanical Engineering (Dynamics & Control). Currently, I serve as a **Senior Data Analyst and IT Manager at Optic Etemad**. My work focuses on leveraging data-driven insights and managing IT infrastructure to solve complex industrial and research challenges. I have authored 2 ISI research papers, showcasing my commitment to rigorous analysis and optimization.
 
-My expertise combines solid engineering foundations with modern data-driven methodologies:
+## 🛠 Technical Skills & Expertise
 
-- 📊 **Core Focus:** Data Analysis, Data Science, Machine Learning.
-- 🐍 **Programming:** Python (Expert), MATLAB.
+- 📊 **Data Science & AI:** Machine Learning, Data Analysis, Power BI, Scikit-Learn, Pandas, NumPy, SciPy (Statistics), Matplotlib, Seaborn.
+- ⚙️ **Optimization & Control:** Dynamics & Control, Genetic Algorithms (GA), Imperialist Competitive Algorithm (ICA).
+- 🐍 **Programming:** Python, MATLAB, OS, re (Regular Expressions).
 - 🗄 **Databases:** MySQL, Oracle SQL.
-- 📈 **Data Stack:** Pandas, NumPy, SciPy (Statistics), Matplotlib, Seaborn, OS, re (Regular Expressions).
-- ⚙️ **Engineering Software:** AutoCAD, CATIA, ANSYS, Abaqus, OpenSim.
+- 🏗 **Engineering Software:** AutoCAD, CATIA, ANSYS, Abaqus, OpenSim.
+- 🌐 **Web & Marketing:** WordPress, SEO.
+- 🎨 **Creative & Office:** MS Office (Excel, Word, PowerPoint), Adobe Photoshop.
 
 ---
 
