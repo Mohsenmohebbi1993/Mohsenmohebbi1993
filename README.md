@@ -1,16 +1,39 @@
-## Hi there 👋
+# Mohsen Mohebbi
 
-<!--
-**Mohsenmohebbi1993/Mohsenmohebbi1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar" />
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I have a Master's degree in Mechanical Engineering and I work in the field of Data Science. My professional focus is on leveraging Python for AI modeling, data analysis, and automation.
+
+- 🔭 Currently working on Data Science and AI projects.
+- 🐍 Expert in Python, Data Analysis, and Machine Learning.
+- 🇩🇪 Learning German.
+- 💬 Ask me about: Python, SQL, Mechanical Engineering applications in AI.
+
+---
+
+## 🛠 Technical Skills
+- **Languages:** Python, SQL
+- **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter
+- **Tools:** Git, Oracle SQL, Data Visualization
+
+---
+
+## 🔗 Links
+- [LinkedIn](https://www.linkedin.com/in/mohsen-mohebbi1993/)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=RGW0ar8AAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Mohsen_Mohebbi)
+
+---
+
+## 📊 GitHub Stats
+![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsenmohebbi1993&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsenmohebbi1993&layout=compact&theme=radical)
+
+---
