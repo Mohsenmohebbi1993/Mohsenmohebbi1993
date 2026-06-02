@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-I have a Master's degree in Mechanical Engineering and I work in the field of Data Science. My professional focus is on leveraging Python for AI modeling, data analysis, and automation.
+I hold a B.Sc. in Mechanical Engineering and an M.Sc. in Applied Design. I currently specialize in Data Analysis, Data Science, and AI, applying my analytical background to solve complex technical problems in these fields.
 
 - 🔭 Currently working on Data Science and AI projects.
 - 🐍 Expert in Python, Data Analysis, and Machine Learning.
