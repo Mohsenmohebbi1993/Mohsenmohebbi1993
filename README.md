@@ -11,11 +11,13 @@
 ## 👨‍💻 About Me
 I hold a B.Sc. in Mechanical Engineering and an M.Sc. in Applied Design. I currently specialize in Data Analysis, Data Science, and AI, applying my analytical background to solve complex technical problems in these fields.
 
-- 🔭 Currently working on Data Science and AI projects.
-- 🐍 Expert in Python, Data Analysis, and Machine Learning.
-- 🇩🇪 Learning German.
-- 💬 Ask me about: Python, SQL, Mechanical Engineering applications in AI.
+## 🛠 Technical Skills & Expertise
 
+- 📊 **Core Focus:** Data Analysis, Data Science, Machine Learning.
+- 🐍 **Programming:** Python (Expert), MATLAB.
+- 🗄 **Databases:** MySQL, Oracle SQL.
+- 📈 **Data Stack:** NumPy, Pandas, SciPy (Statistics), Matplotlib, Seaborn, OS, RE (Regular Expressions).
+- ⚙️ **Engineering Software:** AutoCAD, CATIA, ANSYS, Abaqus, OpenSim.
 ---
 
 ## 🛠 Technical Skills
