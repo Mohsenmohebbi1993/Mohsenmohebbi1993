@@ -56,6 +56,13 @@ Currently, I work at **Optic Etemad** as both **IT Manager** and **Senior Data A
 | 🏃 Human Motion Analysis | Motion Data Processing, Kinematic Analysis, Python/MATLAB |
 | 🦴 Biomechanics & Musculoskeletal Modeling | OpenSim, Inverse Kinematics/Dynamics, Movement Analysis |
 | 📈 Signal Processing | Filtering, Time/Frequency Analysis, Python, MATLAB |
+
+---
+
+## 📈 GitHub Activity
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Mohsenmohebbi1993&theme=radical&hide_border=false)
+
+
 ## 📊 GitHub Stats
 ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsenmohebbi1993&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsenmohebbi1993&layout=compact&theme=radical)
