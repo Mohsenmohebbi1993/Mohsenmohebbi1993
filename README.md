@@ -31,6 +31,7 @@ Driven by my strong interest in data-driven problem solving, I transitioned into
 
 Currently, I work at **Optic Etemad** as both **IT Manager** and **Senior Data Analyst**, where I am responsible for **sales analysis, customer analysis, and business data analysis**. I am highly interested in this field and continuously focused on developing my expertise in data and intelligent systems.
 
+---
 
 ## 🛠 Technical Skills & Expertise
 
