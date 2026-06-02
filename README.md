@@ -18,34 +18,21 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
-I hold a B.Sc. in Mechanical Engineering and an M.Sc. in Applied Design. I currently specialize in Data Analysis, Data Science, and AI, applying my analytical background to solve complex technical problems in these fields.
+---
 
-## 🛠 Technical Skills & Expertise
+## 👨‍💻 About Me
+I hold a B.Sc. in Mechanical Engineering and an M.Sc. in Applied Design. I currently serve as a **Senior Data Analyst and IT Manager at Optic Etemad**, where I apply analytical rigor to solve complex problems in Data Science and AI.
+
+My expertise combines solid engineering foundations with modern data-driven methodologies:
 
 - 📊 **Core Focus:** Data Analysis, Data Science, Machine Learning.
 - 🐍 **Programming:** Python (Expert), MATLAB.
 - 🗄 **Databases:** MySQL, Oracle SQL.
-- 📈 **Data Stack:** NumPy, Pandas, SciPy (Statistics), Matplotlib, Seaborn, OS, RE (Regular Expressions).
+- 📈 **Data Stack:** Pandas, NumPy, SciPy (Statistics), Matplotlib, Seaborn, OS, re (Regular Expressions).
 - ⚙️ **Engineering Software:** AutoCAD, CATIA, ANSYS, Abaqus, OpenSim.
----
-
-## 🛠 Technical Skills
-- **Languages:** Python, SQL
-- **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter
-- **Tools:** Git, Oracle SQL, Data Visualization
-
----
-
-## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/mohsen-mohebbi1993/)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=RGW0ar8AAAAJ)
-- [ResearchGate](https://www.researchgate.net/profile/Mohsen_Mohebbi)
 
 ---
 
 ## 📊 GitHub Stats
 ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsenmohebbi1993&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsenmohebbi1993&layout=compact&theme=radical)
-
----
