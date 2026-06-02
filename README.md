@@ -10,9 +10,13 @@
   <a href="https://github.com/Mohsenmohebbi1993">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=RGW0ar8AAAAJ">
+    <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://www.researchgate.net/profile/Mohsen_Mohebbi">
+    <img src="https://img.shields.io/badge/RESEARCHGATE-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
+  </a>
 </p>
-
----
 
 ## 👨‍💻 About Me
 I hold a B.Sc. in Mechanical Engineering and an M.Sc. in Applied Design. I currently specialize in Data Analysis, Data Science, and AI, applying my analytical background to solve complex technical problems in these fields.
