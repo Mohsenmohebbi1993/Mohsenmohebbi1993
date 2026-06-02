@@ -21,7 +21,7 @@
 ---
 
 ## 👨‍💻 About Me
-I hold a B.Sc. in Mechanical Engineering and an M.Sc. in Applied Design. I currently serve as a **Senior Data Analyst and IT Manager at Optic Etemad**, where I apply analytical rigor to solve complex problems in Data Science and AI.
+I hold a B.Sc. in Mechanical Engineering and an M.Sc. in Mechanical Engineering (Applied Design). I currently serve as a **Senior Data Analyst and IT Manager at Optic Etemad**, where I apply analytical rigor to solve complex problems in Data Science and AI.
 
 My expertise combines solid engineering foundations with modern data-driven methodologies:
 
