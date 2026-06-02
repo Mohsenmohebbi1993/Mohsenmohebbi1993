@@ -1,9 +1,15 @@
-# Mohsen Mohebbi
+# Hi, I'm Mohsen 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar" />
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+**Senior Data Analyst & IT Manager | Mechanical Engineering Background**
+*Data Science · AI · Machine Learning · Applied Design*
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohsen-mohebbi1993/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Mohsenmohebbi1993">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
